@@ -1,1 +1,1 @@
-# codeworkAcademy-courses
+This is the MCStudentsDB database and script. 
